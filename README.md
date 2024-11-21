@@ -1,2 +1,37 @@
-# Urban-Scooter-Project
-Proyecto 9 (Final)
+# Urban Scooter Proyecto Final
+
+# Descripción
+
+En este proyecto, se realiza todas las practicas fundamentales de las pruebas de software para la aplicación web y móvil Urban Scooter, se realizan análisis de requisitos, listas de comprobación, informes de errores, pruebas de API, consultas SQL,
+pruebas funcionales, pruebas de interfaz, pruebas positivas, pruebas negativas, mediante las herramientas de Android Studio, Postman, Línea de comandos (CLI), y Bases de datos.
+
+Se presentan también preguntas, ejercicios y definiciones sobre conceptos generales de las pruebas de software. 
+
+
+# Técnicas
+
+- Mapa mental
+- Listas de comprobación
+- Partición de clases de equivalencia
+- Informes de errores en Jira
+- Pruebas multinavegador
+- Pruebas multiplataforma
+- Diseño de casos de prueba
+- Pruebas de funcionalidad
+- Pruebas de interfaz
+- Pruebas de API
+- SQL
+- ProstgreSQL
+- Línea de comandos
+- SSH protocol
+
+# Estructura
+<strong>Archivos:</strong>
+
+1.	Requisitos de aplicación web de diseño: [WebDesings](https://www.figma.com/design/40VG1yIcVV9m4y80wrcfxc/Urban-Scooter-WEB?node-id=0-1&node-type=canvas)
+2.	Requisitos de aplicación móvil de diseño: [MobileDesings](https://www.figma.com/design/T1Wd0TRnKdDs1ZoKGM4oXw/Urban-Scooter-mobile)
+3.	Requisitos de aplicación web de funcionalidad: [WebRequirements](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/Requisitos_de_aplicaciones_web.pdf)
+4.	Requisitos de aplicación móvil de funcionalidad: [MobileRequirements](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/Requisitos_para_la_aplicacin_mvil.pdf)
+5.	Requisitos de API: [APIRequirements](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/ESP/1.6_Requisitos_para_el_back-end_de_la_aplicacin.pdf)
+6.	Listas de comprobación, casos de prueba, informes de errores partición de clases de equivalencia y teoría de las pruebas [Sheet](https://docs.google.com/spreadsheets/d/1bcAvsaRn3vpFRNjoPTGq-lvEkIyA9m8q/edit?usp=sharing&ouid=105660489015748579866&rtpof=true&sd=true)
+7.	Mapa mental de la función "formulario de pedido" [Map](https://xmind.ai/ZKMPfdec?xid=x0BQjYyC)
