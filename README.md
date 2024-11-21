@@ -7,6 +7,9 @@ pruebas funcionales, pruebas de interfaz, pruebas positivas, pruebas negativas, 
 
 Se presentan también preguntas, ejercicios y definiciones sobre conceptos generales de las pruebas de software. 
 
+Urban Scooter es una plataforma de alquiler de scooters diseñada para la ciudad de Los Ángeles. La aplicación ofrece un servicio integral que permite a los usuarios alquilar scooters de manera sencilla y rápida a través de interfaces web y móviles, los usuarios pueden reservar un scooter para periodos entre 1 y 7 días, con entrega garantizada para el día siguiente tras realizar el pedido.
+
+La aplicación cuenta con funcionalidades avanzadas de seguimiento que permiten a los usuarios rastrear su pedido en tiempo real a través de cuatro estados principales: desde que el scooter está en el almacén hasta el momento de iniciar el paseo. Los repartidores utilizan una aplicación móvil especialmente diseñada que les permite gestionar pedidos de manera eficiente, con opciones de filtrado por estación de metro y notificaciones para garantizar entregas puntuales.
 
 # Técnicas
 
